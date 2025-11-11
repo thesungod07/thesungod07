@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saicharan-tvns-099577291/)
 - 📧 [Email](mailto:saicharantvns@gmail.com)
 
 ---
