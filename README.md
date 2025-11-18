@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🚀 About Me
 
-- 💻 Versatile developer with experience in Python
+- 💻 Versatile developer with  Python
 - 🎯 Continuous learning
 - 🤝 Active collaborator in open-source projects and team development initiatives
-- 🏆 Experienced in contributing to diverse projects spanning C and Python
+- 🏆 Experienced in contributing to diverse projects
 - 👨‍💻 CyberSecurity enthusiast
 
 ## 💬 Languages
