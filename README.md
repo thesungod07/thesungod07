@@ -89,6 +89,6 @@ me.code()
 
 ---
 
-### ⭐ From [thesungod07](https://github.com/thesungod07) with 💚
+### ⭐ From [Apollo](https://github.com/thesungod07)
 
 **Feel free to explore my repositories and don't hesitate to reach out for collaboration!**
