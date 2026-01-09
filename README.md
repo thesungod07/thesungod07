@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📊 GitHub Stats
 
-[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsungod07)]
+[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesungod07)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Key Contributions
 
