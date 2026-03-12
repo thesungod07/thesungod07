@@ -24,8 +24,9 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/https://code.visualstudio.com/assets/branding/code-stable.png&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -46,8 +47,8 @@
 class Developer:
     def __init__(self):
         self.name = "thesungod07"
-        self.interests = ["Web Dev", "AI/ML", "Open Source", "Problem Solving"]
-        self.currently_learning = ["Advanced Algorithms", "Cloud Technologies"]
+        self.interests = ["Cyber Security", "Systems Architecture", "Open Source", "Problem Solving"]
+        self.currently_learning = ["Encryption Algorithms", "OSINT"]
         
     def code(self):
         while True:
