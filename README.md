@@ -46,9 +46,9 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "thesungod07"
+        self.name = "Apollo"
         self.interests = ["Cyber Security", "Systems Architecture", "Open Source", "Problem Solving"]
-        self.currently_learning = ["Encryption Algorithms", "OSINT"]
+        self.currently_learning = ["Encryption Algorithms", "OSINT", "Penetration Testing"]
         
     def code(self):
         while True:
