@@ -1,4 +1,4 @@
-# Hey there, I'm thesungod07! ☀️
+# Hey there, I'm Apollo! ☀️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Code+Enthusiast;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 
